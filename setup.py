@@ -37,7 +37,7 @@ EXTRAS_REQUIRE = {
 
 setuptools.setup(
     name="llm-guard",
-    version=__version__,
+    version="0.3.4p1",
     author="Laiyer.ai",
     author_email="hello@laiyer.ai",
     description=(
